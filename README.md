@@ -1,4 +1,8 @@
 ## Hi there, I'm Harsh Malviya 👋
+Dedicated and zeal driven Software Developer having analytical and
+problem solving abilities with around 3+ years of software development
+experience. Skilled in development using ReactJS, TypeScript, NodeJS. Have
+knowledge of the latest technologies.
 
 ### I'm a Full Stack Developer!!
 
@@ -40,15 +44,11 @@
 [<img align="left" alt="Instagram" title="Instagram" width="25px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />][instagram]
 
 <br />
-<br />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  <br />
-
+### GitHub Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=harsh12-99&show_icons=true&&hide=issues&count_private=true)
 
-</details>
+_Made with a lot of ❤️ by **[@harsh12-99](https://github.com/harsh12-99)**_
 
 [twitter]: https://twitter.com/harsh_12_
 [instagram]: https://www.instagram.com/harsh_12_/
