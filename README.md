@@ -11,6 +11,7 @@ knowledge of the latest technologies.
 -   👯 I’m looking to collaborate with other developers
 -   🥅 2024 Goals: Contribute more to Open Source projects
 
+
 ### Languages and Tools Familiar with :
 
 <img align="left" alt="React" title="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
@@ -26,6 +27,7 @@ knowledge of the latest technologies.
 <img align="left" alt="MongoDB" title="MongoDB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
 <br />
+<br />
 
 ###  Things that help me getting my code done
 <img align="left" title="npm" alt="npm" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
@@ -36,6 +38,7 @@ knowledge of the latest technologies.
 <img align="left" alt="Terminal" title="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
+<br />
 
 ### Connect with me:
 
@@ -43,6 +46,7 @@ knowledge of the latest technologies.
 [<img align="left" alt="LinkedIn" title="LinkedIn" width="25px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
 [<img align="left" alt="Instagram" title="Instagram" width="25px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />][instagram]
 
+<br />
 <br />
 
 ### GitHub Stats:
