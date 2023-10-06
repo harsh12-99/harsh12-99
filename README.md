@@ -46,7 +46,8 @@ knowledge of the latest technologies.
 <br />
 
 ### GitHub Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=harsh12-99&show_icons=true&&hide=issues&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=harsh12-99&show_icons=true&count_private=true)
+![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=harsh12-99)
 
 _Made with a lot of ❤️ by **[@harsh12-99](https://github.com/harsh12-99)**_
 
