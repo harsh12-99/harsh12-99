@@ -6,7 +6,7 @@ knowledge of the latest technologies.
 
 ### I'm a Full Stack Developer!!
 
--   🔭 I have total 3.8 years of experience. 
+-   🔭 I have 4+ years of experience. 
 -   🌱 I’m currently learning ADO.NET :v:
 -   👯 I’m looking to collaborate with other developers
 -   🥅 2024 Goals: Contribute more to Open Source projects
